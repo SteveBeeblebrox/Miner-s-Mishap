@@ -1,0 +1,16 @@
+[
+{
+  "modid": "minermishap",
+  "name": "Miner's Mishap",
+  "description": "Stop players from breaking blocks with this new potion effect.",
+  "version": "1.0.0",
+  "mcversion": "1.12",
+  "url": "https://minecraft.curseforge.com/projects/maze-maker-potion-effects",
+  "updateUrl": "",
+  "authorList": ["SteveBeeblebrox"],
+  "credits": "Hours of Youtube tutorials",
+  "logoFile": "mazemakereffects.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
